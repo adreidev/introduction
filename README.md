@@ -24,7 +24,7 @@ Me muevo entre la oficina y la planta: aplicaciones web de gestión, herramienta
 
 <table>
   <tr>
-    <td width="45%"><a href="https://adreidev.github.io/#work"><img src="https://adreidev.github.io/img/shot-projekt.webp" alt="Projekt"></a></td>
+    <td width="45%"><a href="https://adreidev.github.io/#work"><img src="https://adreidev.github.io/introduction/img/shot-projekt.webp" alt="Projekt"></a></td>
     <td>
       <img src="https://adreidev.github.io/introduction/img/lg-projekt.png" width="32" alt=""><br>
       <b>Projekt</b><br>
@@ -33,7 +33,7 @@ Me muevo entre la oficina y la planta: aplicaciones web de gestión, herramienta
     </td>
   </tr>
   <tr>
-    <td width="45%"><a href="https://adreidev.github.io/#work"><img src="https://adreidev.github.io/img/shot-finstack.webp" alt="FinStack"></a></td>
+    <td width="45%"><a href="https://adreidev.github.io/#work"><img src="https://adreidev.github.io/introduction/img/shot-finstack.webp" alt="FinStack"></a></td>
     <td>
       <img src="https://adreidev.github.io/introduction/img/lg-finstack.svg" width="32" alt=""><br>
       <b>FinStack</b><br>
@@ -42,7 +42,7 @@ Me muevo entre la oficina y la planta: aplicaciones web de gestión, herramienta
     </td>
   </tr>
   <tr>
-    <td width="45%"><a href="https://adreidev.github.io/#work"><img src="https://adreidev.github.io/img/shot-wrenk.webp" alt="Wrenk"></a></td>
+    <td width="45%"><a href="https://adreidev.github.io/#work"><img src="https://adreidev.github.io/introduction/img/shot-wrenk.webp" alt="Wrenk"></a></td>
     <td>
       <img src="https://adreidev.github.io/introduction/img/lg-wrenk.svg" width="32" alt=""><br>
       <b>Wrenk</b><br>
